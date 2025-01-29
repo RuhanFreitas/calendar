@@ -1,7 +1,7 @@
 # Calendar
 
 ## Description
-This project is a simple and interactive **Calenda** built with React. The component allows users to view a calendar, navigate between months, select dates, and manage events. 
+This project is a simple and interactive **Calendar** built with React. The component allows users to view a calendar, navigate between months, select dates, and manage events. 
 
 Users can add, edit, and delete events while specifying event times and descriptions. The component ensures ease of use and a clean, responsive design.
 
